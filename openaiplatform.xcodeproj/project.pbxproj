@@ -11,7 +11,6 @@
 		8DC2F3A229E3766200BC3101 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC2F3A129E3766200BC3101 /* ContentView.swift */; };
 		8DC2F3A429E3766300BC3101 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DC2F3A329E3766300BC3101 /* Assets.xcassets */; };
 		8DC2F3A729E3766300BC3101 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DC2F3A629E3766300BC3101 /* Preview Assets.xcassets */; };
-		8DC2F3AE29E377A300BC3101 /* DallEImageGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC2F3AD29E377A300BC3101 /* DallEImageGenerator.swift */; };
 		8DC2F3B229E379F300BC3101 /* ImageGenerationResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC2F3B129E379F300BC3101 /* ImageGenerationResponse.swift */; };
 		8DC2F3B429E3822F00BC3101 /* Secret.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC2F3B329E3822F00BC3101 /* Secret.swift */; };
 		8DC2F3B629E399B800BC3101 /* SentenceCompletionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DC2F3B529E399B800BC3101 /* SentenceCompletionView.swift */; };
@@ -24,7 +23,6 @@
 		8DC2F3A129E3766200BC3101 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8DC2F3A329E3766300BC3101 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8DC2F3A629E3766300BC3101 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		8DC2F3AD29E377A300BC3101 /* DallEImageGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DallEImageGenerator.swift; sourceTree = "<group>"; };
 		8DC2F3B129E379F300BC3101 /* ImageGenerationResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageGenerationResponse.swift; sourceTree = "<group>"; };
 		8DC2F3B329E3822F00BC3101 /* Secret.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secret.swift; sourceTree = "<group>"; };
 		8DC2F3B529E399B800BC3101 /* SentenceCompletionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SentenceCompletionView.swift; sourceTree = "<group>"; };
@@ -65,7 +63,6 @@
 				8DC2F3A129E3766200BC3101 /* ContentView.swift */,
 				8DC2F3A329E3766300BC3101 /* Assets.xcassets */,
 				8DC2F3A529E3766300BC3101 /* Preview Content */,
-				8DC2F3AD29E377A300BC3101 /* DallEImageGenerator.swift */,
 				8DC2F3B129E379F300BC3101 /* ImageGenerationResponse.swift */,
 				8DC2F3B329E3822F00BC3101 /* Secret.swift */,
 				8DC2F3B529E399B800BC3101 /* SentenceCompletionView.swift */,
@@ -153,7 +150,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				8DC2F3B829E39D2200BC3101 /* SentimentAnalysisView.swift in Sources */,
-				8DC2F3AE29E377A300BC3101 /* DallEImageGenerator.swift in Sources */,
 				8DC2F3B429E3822F00BC3101 /* Secret.swift in Sources */,
 				8DC2F3A229E3766200BC3101 /* ContentView.swift in Sources */,
 				8DC2F3B629E399B800BC3101 /* SentenceCompletionView.swift in Sources */,

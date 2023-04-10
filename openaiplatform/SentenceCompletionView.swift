@@ -2,7 +2,7 @@
 //  SentenceCompletionView.swift
 //  openaiplatform
 //
-//  Created by user234729 on 4/9/23.
+//  Created by Blake Dolenski on 4/10/23.
 //
 
 import SwiftUI
